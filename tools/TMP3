@@ -1,0 +1,22 @@
+12d11
+< ● loaded
+19d17
+< httpd.service active
+20a19,20
+> iscsi-shutdown.service active
+> iscsid.service active
+25d24
+< mariadb.service active
+36,37d34
+< nmb.service active
+< php-fpm.service active
+43,44d39
+< rc-local.service active
+< rhsmcertd.service active
+52d46
+< smb.service active
+79d72
+< vsftpd.service active
+80a74,75
+> xrdp-sesman.service active
+> xrdp.service active
